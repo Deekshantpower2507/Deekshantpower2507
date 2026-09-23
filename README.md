@@ -106,22 +106,6 @@ A space-themed game project involving player movement, enemies and game mechanic
 
 ---
 
-### 🚨 CrisisMesh
-
-An AI-powered emergency response concept designed to help process emergency reports and organize incidents based on factors such as severity, location and rescue requirements.
-
-**Focus:** `AI` `Emergency Response` `Dashboard`
-
----
-
-### 🎟️ QueueLess
-
-An AI-based queue management concept involving virtual tokens, estimated waiting times and queue optimization.
-
-**Focus:** `AI` `Queue Management` `Prediction`
-
----
-
 ### 🔐 Blockchain-Based Secure Platform
 
 SIH project concept for secure identity, access control and digital asset management using blockchain technology.
