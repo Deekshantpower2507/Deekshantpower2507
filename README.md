@@ -120,6 +120,19 @@ A web-based project designed around reporting and managing online crime complain
 
 **Focus:** `Web Development` `Cybersecurity`
 
+
+
+---
+
+### 🏥 Hospital Patient Queue Simulation — Python
+
+A discrete-event simulation project modelling hospital patient arrivals, waiting queues, and doctor consultations using M/M/c queueing theory. Includes an interactive Streamlit dashboard to compare performance across 1, 2, and 3 doctors.
+
+**Tech:** `Python` `SimPy` `NumPy` `Pandas` `Streamlit` `Plotly`
+
+🔗 **[View Project on GitHub](https://github.com/akshitajain02/Hospital-Queue-Simulation-)**
+
+
 ---
 
 ## 🏆 Hackathons & Activities
