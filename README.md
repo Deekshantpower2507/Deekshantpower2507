@@ -130,7 +130,7 @@ A discrete-event simulation project modelling hospital patient arrivals, waiting
 
 **Tech:** `Python` `SimPy` `NumPy` `Pandas` `Streamlit` `Plotly`
 
-🔗 **[View Project on GitHub](https://github.com/akshitajain02/Hospital-Queue-Simulation-)**
+🔗 **[View Project on GitHub](https://github.com/Deekshantpower2507/Hospital-Queue-Simulation-)**
 
 
 ---
